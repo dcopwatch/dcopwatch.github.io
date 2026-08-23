@@ -1,2 +1,2 @@
 # dcopwatch.github.io
-Berkeley Copwatch DeCal Fall 2026
+Welcome to the website for the Berkeley Copwatch DeCal, Fall 2026. 
